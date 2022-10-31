@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @alisayaro
+- 👋 Hi, I’m Alisa
 - 👀 I’m interested in medicine and programming
-- 🌱 I’m currently learning pre-medicine and biology
-- 📫 How to reach me: mail-alisa@yarovinsky.com / ig-alisayar_
+- 🌱 I’m currently studying computer science (my first year) and i'm really enthusiastic about crypto in general and Algorand blockchain in particular:)
+- 📫 How to reach me: alisa.yar@icloud.com / Twitter: @alisayar_
 
 <!---
 alisayaro/alisayaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
