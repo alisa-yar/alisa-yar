@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Alisa
 - 👀 I’m interested in: medicine and programming
 - 🌱 I’m currently studying: Computer Science (1st year)
-- 📫 How to reach me: alisa.yar@icloud.com / Twitter: @alisayar_
-- My linktree: https://alisa-yar.github.io
+- 😄 My linktree: https://alisa-yar.github.io
+- 📫 Mail: alisa.yar@icloud.com 
+- 📫 Twitter: https://twitter.com/alisayar_
+
 
 <!---
 alisa-yar/alisa-yar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub 
