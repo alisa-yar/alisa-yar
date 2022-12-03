@@ -3,7 +3,8 @@
 - 🌱 I’m currently studying: Computer Science (1st year)
 - 😄 My linktree: https://alisa-yar.github.io
 - 📫 Mail: alisa.yar@icloud.com 
-- 📫 Twitter: https://twitter.com/alisayar_
+- 📫 Twitter: https://twitter.com/alisayar_/
+
 
 
 <!---
