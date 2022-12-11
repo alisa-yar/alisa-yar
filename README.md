@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alisa
 - 👀 I’m interested in: medicine and programming
-- 🌱 I’m currently studying: Computer Science (1st year)
+- 🌱 I’m currently studying: Computer Science
 - 📫 Mail: alisa.yar@icloud.com 
 - 📫 Twitter: https://twitter.com/alisayar_/
 - 😄 My linktree: https://alisa-yar.github.io
