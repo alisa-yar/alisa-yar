@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying: Computer Science
 - 📫 Mail: alisa.yar@icloud.com 
 - 📫 Twitter: https://twitter.com/alisayar_/
-- 😄 My linktree: https://alisa-yar.github.io
+- 😄 My linktree: https://alisa.algo.xyz/
 
 
 
