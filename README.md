@@ -1,6 +1,5 @@
 ## About me :woman_technologist: 
-Hey, I’m Alisa  
-21 years old, c.s. student (1st year) and cryptography tech enthusiast
+Hey, I’m 21 years old, c.s. student (1st year) and cryptography tech enthusiast  
 
 ## Mail :envelope:  
 alisa.yar@icloud.com  
