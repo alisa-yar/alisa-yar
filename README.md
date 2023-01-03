@@ -1,8 +1,17 @@
-😊 Hi, I’m Alisa
-💻 I’m currently studying: Computer Science
-✉️ Mail: alisa.yar@icloud.com 
-🐦 Twitter: https://twitter.com/alisayar_/
-🌱 My linktree: https://alisa.algo.xyz
+ 
+
+## About me:computer: 
+Hey, I’m Alisa 
+
+
+## Mail:envelope:  
+alisa.yar@icloud.com  
+
+## Twitter:bird: 
+https://twitter.com/alisayar_/  
+ 
+## My linktree:sparkles:
+https://alisa.algo.xyz  
 
 <a href="https://www.buymeacoffee.com/alisa.algo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
