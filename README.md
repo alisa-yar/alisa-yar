@@ -1,19 +1,21 @@
- 
+## About me :woman_technologist: 
+Hey, I’m Alisa  
+21 years old, c.s. student (1st year) and cryptography tech enthusiast
 
-## About me:computer: 
-Hey, I’m Alisa 
-
-
-## Mail:envelope:  
+## Mail :envelope:  
 alisa.yar@icloud.com  
 
-## Twitter:bird: 
+## Twitter :bird: 
 https://twitter.com/alisayar_/  
  
-## My linktree:sparkles:
-https://alisa.algo.xyz  
+## My linktree :sparkles:
+https://alisa.algo.xyz/  
 
-<a href="https://www.buymeacoffee.com/alisa.algo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<div class = "coffee">
+ <a class = "link" href="https://www.buymeacoffee.com/alisa.algo" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" 
+       style="height: 60px !important;width: 217px !important;">
+ </a>
 
 <!---
 alisa-yar/alisa-yar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub 
