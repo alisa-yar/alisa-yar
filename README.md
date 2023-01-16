@@ -8,7 +8,7 @@ alisa.yar@icloud.com
 https://twitter.com/alisayar_/  
  
 ## My linktree :sparkles:
-https://alisa.algo.xyz/  
+https://linktree.alisa.social/
 
 ## Buy Me A Coffee :coffee:
 <div class = "coffee">
