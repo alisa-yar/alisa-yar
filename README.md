@@ -10,6 +10,7 @@ https://twitter.com/alisayar_/
 ## My linktree :sparkles:
 https://linktree.alisa.social/
 
+<!---
 ## Buy Me A Coffee :coffee:
 <div class = "coffee">
  <a class = "link" href="https://www.buymeacoffee.com/alisa.algo" target="_blank">
@@ -18,7 +19,6 @@ https://linktree.alisa.social/
  </a>
  
 
-<!---
 alisa-yar/alisa-yar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub 
 You can click the Preview link to take a look at your changes.
 --->
