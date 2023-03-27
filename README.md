@@ -1,20 +1,14 @@
 ## About me :woman_technologist: 
 Hey, I’m 21 years old, c.s. student (1st year) and cryptography tech enthusiast  
 
-## Languages:  
+## Languages  
 English, Russian and Hebrew
 
-## Programming Languages:  
+## Programming Languages :computer:
 Java, Python, HTML, CSS, JS (in progress)
 
 ## Mail :envelope:  
 alisa.yar@icloud.com  
-
-## Twitter :bird: 
-https://twitter.com/alisayar_/  
- 
-## My linktree :sparkles:
-https://linktree.alisa.social/
 
 <!---
 ## Buy Me A Coffee :coffee:
