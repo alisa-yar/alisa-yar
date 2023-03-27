@@ -5,7 +5,7 @@ Hey, I’m 21 years old, c.s. student (1st year) and cryptography tech enthusias
 English, Russian and Hebrew
 
 ## Programming Languages:  
-Java, Python, HTML, CSS, JS
+Java, Python, HTML, CSS, JS (in progress)
 
 ## Mail :envelope:  
 alisa.yar@icloud.com  
