@@ -1,7 +1,7 @@
 ## About me :woman_technologist: 
 Hey, I’m 21 years old, c.s. student (1st year) and cryptography tech enthusiast  
 
-## Languages  
+## Languages :blush:
 English, Russian and Hebrew
 
 ## Programming Languages :computer:
