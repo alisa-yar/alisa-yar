@@ -1,3 +1,7 @@
+<p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=alisa-yar&label=Profile%20views&color=0e75b6&style=flat" alt="dagimg-dot"/> 
+</p>
+
 ## About me :woman_technologist: 
 Hey, I’m 21 years old, c.s. student (1st year) and cryptography tech enthusiast  
 
