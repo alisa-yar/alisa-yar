@@ -14,6 +14,9 @@ Java, Python, HTML, CSS, JS (in progress)
 ## Mail :envelope:  
 alisa.yar@icloud.com  
 
+Feel free to use any of the my published repositories content for personal use :blush:
+
+
 <!---
 ## Buy Me A Coffee :coffee:
 <div class = "coffee">
