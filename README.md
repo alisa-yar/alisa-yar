@@ -9,13 +9,13 @@ Hey, I’m 21 years old, c.s. student (1st year) and cryptography tech enthusias
 English, Russian and Hebrew
 
 ## Programming Languages :computer:
-Java, Python, HTML, CSS, JS (in progress)
+Java, Python, HTML, CSS, JS (in progress), Django (in progress)
 
 <!-- ## Mail :envelope:  
 alisa.yar@icloud.com --> 
 
 ## 
-Feel free to use any of the my published repositories content for personal use :blush:
+Feel free to use any of the my  repositories and if you have any questions you can contact me here: alisa.yar@icloud.com :blush:
 
 
 <!---
