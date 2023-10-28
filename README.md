@@ -9,7 +9,7 @@ Hey, I’m 21 years old, c.s. student (1st year) and cryptography tech enthusias
 English, Russian and Hebrew
 
 ## Programming Languages :computer:
-Java, Python, HTML, CSS, JS (in progress), Django (in progress)
+Java, Python, HTML, CSS, JS, Django
 
 <!-- ## Mail :envelope:  
 alisa.yar@icloud.com --> 
